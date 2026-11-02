@@ -16,3 +16,7 @@
 『❌』Our authentication reimplantation is closed source, only a Lite version is available.
 
 『💻』SusNetwork is still in development and is not publicly available yet.
+
+> **⚠️ WARNING**:
+> 
+> SusNet and SusNetwork are independent, community-developed projects and are not affiliated with, endorsed by, or sponsored by Innersloth or Among Us. Please do not contact Innersloth or Among Us Support regarding issues encountered while using SusNet or SusNetwork. Using SusNet is not, in itself, expected to result in an Innersloth account ban; however, we cannot guarantee that your account will remain unaffected by enforcement actions, ban waves, or changes to Innersloth's policies. SusNet and SusNetwork are provided without any guarantee against account restrictions, and the developers accept no responsibility for bans or other enforcement actions resulting from their use.
